@@ -1,0 +1,1456 @@
+{
+  "total_entries": 1669,
+  "tempo_entries": [
+    {
+      "row_number": 2,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_NO2_L3",
+      "version": "V03",
+      "entry_title": "TEMPO gridded NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-02T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_NO2_L3",
+        "Version": "V03",
+        "Entry Title": "TEMPO gridded NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-02T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 3,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_HCHO_L3",
+      "version": "V03",
+      "entry_title": "TEMPO gridded formaldehyde total column V03 (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_HCHO_L3",
+        "Version": "V03",
+        "Entry Title": "TEMPO gridded formaldehyde total column V03 (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 4,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_O3TOT_L3",
+      "version": "V03",
+      "entry_title": "TEMPO gridded ozone total column V03 (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_O3TOT_L3",
+        "Version": "V03",
+        "Entry Title": "TEMPO gridded ozone total column V03 (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 5,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_NO2_L2",
+      "version": "V03",
+      "entry_title": "TEMPO NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_NO2_L2",
+        "Version": "V03",
+        "Entry Title": "TEMPO NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 6,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_CLDO4_L3",
+      "version": "V03",
+      "entry_title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V03 (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_CLDO4_L3",
+        "Version": "V03",
+        "Entry Title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V03 (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 10,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_HCHO_L2",
+      "version": "V03",
+      "entry_title": "TEMPO formaldehyde total column V03 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_HCHO_L2",
+        "Version": "V03",
+        "Entry Title": "TEMPO formaldehyde total column V03 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 14,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_O3TOT_L2",
+      "version": "V03",
+      "entry_title": "TEMPO ozone total column V03 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_O3TOT_L2",
+        "Version": "V03",
+        "Entry Title": "TEMPO ozone total column V03 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 18,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_RAD_L1",
+      "version": "V03",
+      "entry_title": "TEMPO geolocated Earth radiances V03 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_RAD_L1",
+        "Version": "V03",
+        "Entry Title": "TEMPO geolocated Earth radiances V03 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 22,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_CLDO4_L2",
+      "version": "V03",
+      "entry_title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V03 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_CLDO4_L2",
+        "Version": "V03",
+        "Entry Title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V03 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 36,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_IRR_L1",
+      "version": "V03",
+      "entry_title": "TEMPO solar irradiance V03 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_IRR_L1",
+        "Version": "V03",
+        "Entry Title": "TEMPO solar irradiance V03 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 68,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_RADT_L1",
+      "version": "V03",
+      "entry_title": "TEMPO geolocated Earth radiances twilight V03 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_RADT_L1",
+        "Version": "V03",
+        "Entry Title": "TEMPO geolocated Earth radiances twilight V03 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 112,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_IRRR_L1",
+      "version": "V03",
+      "entry_title": "TEMPO solar irradiance (reference diffuser) V03 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_IRRR_L1",
+        "Version": "V03",
+        "Entry Title": "TEMPO solar irradiance (reference diffuser) V03 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 145,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_DRK_L1",
+      "version": "V03",
+      "entry_title": "TEMPO dark exposure V03 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-06-08T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_DRK_L1",
+        "Version": "V03",
+        "Entry Title": "TEMPO dark exposure V03 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-06-08T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 620,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_CLDO4_L2",
+      "version": "V04",
+      "entry_title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V04 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_CLDO4_L2",
+        "Version": "V04",
+        "Entry Title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V04 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 621,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_CLDO4_L3",
+      "version": "V04",
+      "entry_title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) Version V04 (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_CLDO4_L3",
+        "Version": "V04",
+        "Entry Title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) Version V04 (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 622,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_HCHO_L2",
+      "version": "V04",
+      "entry_title": "TEMPO formaldehyde total column V04 (PROVISIONAL)\u00a0",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_HCHO_L2",
+        "Version": "V04",
+        "Entry Title": "TEMPO formaldehyde total column V04 (PROVISIONAL)\u00a0",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 623,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_O3PROF_L2",
+      "version": "V04",
+      "entry_title": "TEMPO ozone profile V04 (BETA)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_O3PROF_L2",
+        "Version": "V04",
+        "Entry Title": "TEMPO ozone profile V04 (BETA)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 624,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_RAD_L1",
+      "version": "V04",
+      "entry_title": "TEMPO geolocated Earth radiances V04 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_RAD_L1",
+        "Version": "V04",
+        "Entry Title": "TEMPO geolocated Earth radiances V04 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 625,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_DRK_L1",
+      "version": "V04",
+      "entry_title": "TEMPO dark exposure V04 (PROVISIONAL)",
+      "processing_level": "1A",
+      "platform": "IS-40e",
+      "start_time": "2023-06-06T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_DRK_L1",
+        "Version": "V04",
+        "Entry Title": "TEMPO dark exposure V04 (PROVISIONAL)",
+        "Processing Level": "1A",
+        "Platform": "IS-40e",
+        "Start Time": "2023-06-06T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 626,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_HCHO_L3",
+      "version": "V04",
+      "entry_title": "TEMPO gridded formaldehyde total column V04  (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_HCHO_L3",
+        "Version": "V04",
+        "Entry Title": "TEMPO gridded formaldehyde total column V04  (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 627,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_IRRR_L1",
+      "version": "V04",
+      "entry_title": "TEMPO solar irradiance (reference diffuser) V04 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_IRRR_L1",
+        "Version": "V04",
+        "Entry Title": "TEMPO solar irradiance (reference diffuser) V04 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 628,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_IRR_L1",
+      "version": "V04",
+      "entry_title": "TEMPO solar irradiance V04 (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_IRR_L1",
+        "Version": "V04",
+        "Entry Title": "TEMPO solar irradiance V04 (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 629,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_NO2_L2",
+      "version": "V04",
+      "entry_title": "TEMPO NO2 tropospheric and stratospheric columns V04 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_NO2_L2",
+        "Version": "V04",
+        "Entry Title": "TEMPO NO2 tropospheric and stratospheric columns V04 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 630,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_NO2_L3",
+      "version": "V04",
+      "entry_title": "TEMPO gridded NO2 tropospheric and stratospheric columns V04  (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_NO2_L3",
+        "Version": "V04",
+        "Entry Title": "TEMPO gridded NO2 tropospheric and stratospheric columns V04  (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 631,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_O3PROF_L3",
+      "version": "V04",
+      "entry_title": "TEMPO gridded ozone profile V04 (BETA)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_O3PROF_L3",
+        "Version": "V04",
+        "Entry Title": "TEMPO gridded ozone profile V04 (BETA)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 632,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_O3TOT_L2",
+      "version": "V04",
+      "entry_title": "TEMPO ozone total column V04 (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_O3TOT_L2",
+        "Version": "V04",
+        "Entry Title": "TEMPO ozone total column V04 (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 633,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_O3TOT_L3",
+      "version": "V04",
+      "entry_title": "TEMPO gridded ozone total column V04 (PROVISIONAL)\u00a0",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2023-08-01T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_O3TOT_L3",
+        "Version": "V04",
+        "Entry Title": "TEMPO gridded ozone total column V04 (PROVISIONAL)\u00a0",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2023-08-01T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1606,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_CLDO4_L2_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V02 (NRT) (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_CLDO4_L2_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V02 (NRT) (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1607,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_CLDO4_L3_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V02 (NRT)  (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_CLDO4_L3_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V02 (NRT)  (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1608,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_HCHO_L2_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO formaldehyde total column V02 (NRT) (PROVISIONAL)",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_HCHO_L2_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO formaldehyde total column V02 (NRT) (PROVISIONAL)",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1609,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_HCHO_L3_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO gridded formaldehyde total column V02 (NRT) (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_HCHO_L3_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO gridded formaldehyde total column V02 (NRT) (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1610,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_NO2_L2_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO NO2 tropospheric and stratospheric columns V02 (NRT) PROVISIONAL",
+      "processing_level": "2",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_NO2_L2_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO NO2 tropospheric and stratospheric columns V02 (NRT) PROVISIONAL",
+        "Processing Level": "2",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1611,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_NO2_L3_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO gridded NO2 tropospheric and stratospheric columns V02 (NRT) (PROVISIONAL)",
+      "processing_level": "3",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_NO2_L3_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO gridded NO2 tropospheric and stratospheric columns V02 (NRT) (PROVISIONAL)",
+        "Processing Level": "3",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    },
+    {
+      "row_number": 1612,
+      "data_provider": "LARC_CLOUD",
+      "short_name": "TEMPO_RAD_L1_NRT",
+      "version": "V02",
+      "entry_title": "TEMPO geolocated Earth radiances V02 (NRT) (PROVISIONAL)",
+      "processing_level": "1B",
+      "platform": "IS-40e",
+      "start_time": "2025-09-17T00:00:00.000Z",
+      "end_time": "",
+      "full_row": {
+        "Data Provider": "LARC_CLOUD",
+        "Short Name": "TEMPO_RAD_L1_NRT",
+        "Version": "V02",
+        "Entry Title": "TEMPO geolocated Earth radiances V02 (NRT) (PROVISIONAL)",
+        "Processing Level": "1B",
+        "Platform": "IS-40e",
+        "Start Time": "2025-09-17T00:00:00.000Z",
+        "End Time": ""
+      }
+    }
+  ],
+  "columns": [
+    "Data Provider",
+    "Short Name",
+    "Version",
+    "Entry Title",
+    "Processing Level",
+    "Platform",
+    "Start Time",
+    "End Time"
+  ],
+  "categories": {
+    "no2_products": [
+      {
+        "row_number": 2,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_NO2_L3",
+        "version": "V03",
+        "entry_title": "TEMPO gridded NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-02T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_NO2_L3",
+          "Version": "V03",
+          "Entry Title": "TEMPO gridded NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-02T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 5,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_NO2_L2",
+        "version": "V03",
+        "entry_title": "TEMPO NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_NO2_L2",
+          "Version": "V03",
+          "Entry Title": "TEMPO NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 629,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_NO2_L2",
+        "version": "V04",
+        "entry_title": "TEMPO NO2 tropospheric and stratospheric columns V04 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_NO2_L2",
+          "Version": "V04",
+          "Entry Title": "TEMPO NO2 tropospheric and stratospheric columns V04 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 630,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_NO2_L3",
+        "version": "V04",
+        "entry_title": "TEMPO gridded NO2 tropospheric and stratospheric columns V04  (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_NO2_L3",
+          "Version": "V04",
+          "Entry Title": "TEMPO gridded NO2 tropospheric and stratospheric columns V04  (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1610,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_NO2_L2_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO NO2 tropospheric and stratospheric columns V02 (NRT) PROVISIONAL",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_NO2_L2_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO NO2 tropospheric and stratospheric columns V02 (NRT) PROVISIONAL",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1611,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_NO2_L3_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO gridded NO2 tropospheric and stratospheric columns V02 (NRT) (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_NO2_L3_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO gridded NO2 tropospheric and stratospheric columns V02 (NRT) (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      }
+    ],
+    "hcho_products": [
+      {
+        "row_number": 3,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_HCHO_L3",
+        "version": "V03",
+        "entry_title": "TEMPO gridded formaldehyde total column V03 (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_HCHO_L3",
+          "Version": "V03",
+          "Entry Title": "TEMPO gridded formaldehyde total column V03 (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 10,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_HCHO_L2",
+        "version": "V03",
+        "entry_title": "TEMPO formaldehyde total column V03 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_HCHO_L2",
+          "Version": "V03",
+          "Entry Title": "TEMPO formaldehyde total column V03 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 622,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_HCHO_L2",
+        "version": "V04",
+        "entry_title": "TEMPO formaldehyde total column V04 (PROVISIONAL)\u00a0",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_HCHO_L2",
+          "Version": "V04",
+          "Entry Title": "TEMPO formaldehyde total column V04 (PROVISIONAL)\u00a0",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 626,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_HCHO_L3",
+        "version": "V04",
+        "entry_title": "TEMPO gridded formaldehyde total column V04  (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_HCHO_L3",
+          "Version": "V04",
+          "Entry Title": "TEMPO gridded formaldehyde total column V04  (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1608,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_HCHO_L2_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO formaldehyde total column V02 (NRT) (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_HCHO_L2_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO formaldehyde total column V02 (NRT) (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1609,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_HCHO_L3_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO gridded formaldehyde total column V02 (NRT) (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_HCHO_L3_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO gridded formaldehyde total column V02 (NRT) (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      }
+    ],
+    "o3_products": [
+      {
+        "row_number": 4,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_O3TOT_L3",
+        "version": "V03",
+        "entry_title": "TEMPO gridded ozone total column V03 (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_O3TOT_L3",
+          "Version": "V03",
+          "Entry Title": "TEMPO gridded ozone total column V03 (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 14,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_O3TOT_L2",
+        "version": "V03",
+        "entry_title": "TEMPO ozone total column V03 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_O3TOT_L2",
+          "Version": "V03",
+          "Entry Title": "TEMPO ozone total column V03 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 623,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_O3PROF_L2",
+        "version": "V04",
+        "entry_title": "TEMPO ozone profile V04 (BETA)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_O3PROF_L2",
+          "Version": "V04",
+          "Entry Title": "TEMPO ozone profile V04 (BETA)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 631,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_O3PROF_L3",
+        "version": "V04",
+        "entry_title": "TEMPO gridded ozone profile V04 (BETA)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_O3PROF_L3",
+          "Version": "V04",
+          "Entry Title": "TEMPO gridded ozone profile V04 (BETA)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 632,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_O3TOT_L2",
+        "version": "V04",
+        "entry_title": "TEMPO ozone total column V04 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_O3TOT_L2",
+          "Version": "V04",
+          "Entry Title": "TEMPO ozone total column V04 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 633,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_O3TOT_L3",
+        "version": "V04",
+        "entry_title": "TEMPO gridded ozone total column V04 (PROVISIONAL)\u00a0",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_O3TOT_L3",
+          "Version": "V04",
+          "Entry Title": "TEMPO gridded ozone total column V04 (PROVISIONAL)\u00a0",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      }
+    ],
+    "cloud_products": [
+      {
+        "row_number": 6,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_CLDO4_L3",
+        "version": "V03",
+        "entry_title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V03 (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_CLDO4_L3",
+          "Version": "V03",
+          "Entry Title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V03 (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 22,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_CLDO4_L2",
+        "version": "V03",
+        "entry_title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V03 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_CLDO4_L2",
+          "Version": "V03",
+          "Entry Title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V03 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 620,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_CLDO4_L2",
+        "version": "V04",
+        "entry_title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V04 (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_CLDO4_L2",
+          "Version": "V04",
+          "Entry Title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V04 (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 621,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_CLDO4_L3",
+        "version": "V04",
+        "entry_title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) Version V04 (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_CLDO4_L3",
+          "Version": "V04",
+          "Entry Title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) Version V04 (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1606,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_CLDO4_L2_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V02 (NRT) (PROVISIONAL)",
+        "processing_level": "2",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_CLDO4_L2_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V02 (NRT) (PROVISIONAL)",
+          "Processing Level": "2",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1607,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_CLDO4_L3_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V02 (NRT)  (PROVISIONAL)",
+        "processing_level": "3",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_CLDO4_L3_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V02 (NRT)  (PROVISIONAL)",
+          "Processing Level": "3",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      }
+    ],
+    "other_products": [
+      {
+        "row_number": 18,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_RAD_L1",
+        "version": "V03",
+        "entry_title": "TEMPO geolocated Earth radiances V03 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_RAD_L1",
+          "Version": "V03",
+          "Entry Title": "TEMPO geolocated Earth radiances V03 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 36,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_IRR_L1",
+        "version": "V03",
+        "entry_title": "TEMPO solar irradiance V03 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_IRR_L1",
+          "Version": "V03",
+          "Entry Title": "TEMPO solar irradiance V03 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 68,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_RADT_L1",
+        "version": "V03",
+        "entry_title": "TEMPO geolocated Earth radiances twilight V03 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_RADT_L1",
+          "Version": "V03",
+          "Entry Title": "TEMPO geolocated Earth radiances twilight V03 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 112,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_IRRR_L1",
+        "version": "V03",
+        "entry_title": "TEMPO solar irradiance (reference diffuser) V03 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_IRRR_L1",
+          "Version": "V03",
+          "Entry Title": "TEMPO solar irradiance (reference diffuser) V03 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 145,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_DRK_L1",
+        "version": "V03",
+        "entry_title": "TEMPO dark exposure V03 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-06-08T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_DRK_L1",
+          "Version": "V03",
+          "Entry Title": "TEMPO dark exposure V03 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-06-08T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 624,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_RAD_L1",
+        "version": "V04",
+        "entry_title": "TEMPO geolocated Earth radiances V04 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_RAD_L1",
+          "Version": "V04",
+          "Entry Title": "TEMPO geolocated Earth radiances V04 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 625,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_DRK_L1",
+        "version": "V04",
+        "entry_title": "TEMPO dark exposure V04 (PROVISIONAL)",
+        "processing_level": "1A",
+        "platform": "IS-40e",
+        "start_time": "2023-06-06T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_DRK_L1",
+          "Version": "V04",
+          "Entry Title": "TEMPO dark exposure V04 (PROVISIONAL)",
+          "Processing Level": "1A",
+          "Platform": "IS-40e",
+          "Start Time": "2023-06-06T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 627,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_IRRR_L1",
+        "version": "V04",
+        "entry_title": "TEMPO solar irradiance (reference diffuser) V04 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_IRRR_L1",
+          "Version": "V04",
+          "Entry Title": "TEMPO solar irradiance (reference diffuser) V04 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 628,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_IRR_L1",
+        "version": "V04",
+        "entry_title": "TEMPO solar irradiance V04 (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2023-08-01T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_IRR_L1",
+          "Version": "V04",
+          "Entry Title": "TEMPO solar irradiance V04 (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2023-08-01T00:00:00.000Z",
+          "End Time": ""
+        }
+      },
+      {
+        "row_number": 1612,
+        "data_provider": "LARC_CLOUD",
+        "short_name": "TEMPO_RAD_L1_NRT",
+        "version": "V02",
+        "entry_title": "TEMPO geolocated Earth radiances V02 (NRT) (PROVISIONAL)",
+        "processing_level": "1B",
+        "platform": "IS-40e",
+        "start_time": "2025-09-17T00:00:00.000Z",
+        "end_time": "",
+        "full_row": {
+          "Data Provider": "LARC_CLOUD",
+          "Short Name": "TEMPO_RAD_L1_NRT",
+          "Version": "V02",
+          "Entry Title": "TEMPO geolocated Earth radiances V02 (NRT) (PROVISIONAL)",
+          "Processing Level": "1B",
+          "Platform": "IS-40e",
+          "Start Time": "2025-09-17T00:00:00.000Z",
+          "End Time": ""
+        }
+      }
+    ]
+  },
+  "instructions": "TEMPO Data Download Instructions:\n==================================================\n\nNO2 Products Found: 6\n------------------------------\n\nProduct: TEMPO_NO2_L3\nTitle: TEMPO gridded NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)\nProcessing Level: 3\nVersion: V03\nPlatform: IS-40e\nStart Time: 2023-08-02T00:00:00.000Z\nEnd Time: \n\nDownload URL Pattern:\nhttps://tempo.si.edu/data/level3/tempo_no2_l3/\nLook for files ending in .nc (NetCDF format)\n------------------------------\n\nProduct: TEMPO_NO2_L2\nTitle: TEMPO NO2 tropospheric and stratospheric columns V03 (PROVISIONAL)\nProcessing Level: 2\nVersion: V03\nPlatform: IS-40e\nStart Time: 2023-08-01T00:00:00.000Z\nEnd Time: \n------------------------------\n\nProduct: TEMPO_NO2_L2\nTitle: TEMPO NO2 tropospheric and stratospheric columns V04 (PROVISIONAL)\nProcessing Level: 2\nVersion: V04\nPlatform: IS-40e\nStart Time: 2023-08-01T00:00:00.000Z\nEnd Time: \n------------------------------\n\nProduct: TEMPO_NO2_L3\nTitle: TEMPO gridded NO2 tropospheric and stratospheric columns V04  (PROVISIONAL)\nProcessing Level: 3\nVersion: V04\nPlatform: IS-40e\nStart Time: 2023-08-01T00:00:00.000Z\nEnd Time: \n\nDownload URL Pattern:\nhttps://tempo.si.edu/data/level3/tempo_no2_l3/\nLook for files ending in .nc (NetCDF format)\n------------------------------\n\nProduct: TEMPO_NO2_L2_NRT\nTitle: TEMPO NO2 tropospheric and stratospheric columns V02 (NRT) PROVISIONAL\nProcessing Level: 2\nVersion: V02\nPlatform: IS-40e\nStart Time: 2025-09-17T00:00:00.000Z\nEnd Time: \n------------------------------\n\nProduct: TEMPO_NO2_L3_NRT\nTitle: TEMPO gridded NO2 tropospheric and stratospheric columns V02 (NRT) (PROVISIONAL)\nProcessing Level: 3\nVersion: V02\nPlatform: IS-40e\nStart Time: 2025-09-17T00:00:00.000Z\nEnd Time: \n\nDownload URL Pattern:\nhttps://tempo.si.edu/data/level3/tempo_no2_l3_nrt/\nLook for files ending in .nc (NetCDF format)\n------------------------------\n\nGeneral Download Instructions:\n------------------------------\n1. Visit: https://tempo.si.edu/\n2. Navigate to the data section\n3. Select your desired product (NO2, HCHO, O3, etc.)\n4. Choose processing level (L2 or L3)\n5. Download NetCDF (.nc) files\n6. Place downloaded files in the 'data/' directory\n\nFor Level 3 NO2 data specifically:\n- Look for files like: TEMPO_NO2_L3_v03.nc\n- These are gridded, ready-to-use datasets\n- Perfect for analysis and visualization"
+}
